@@ -1,0 +1,7 @@
+[project]
+name = "genpark-autonomous-terminal-command-sandbox-and-risk-classifier-skill"
+version = "1.0.0"
+description = "Classifies shell and SSH commands by destructive blast radius and blocks privilege escalation vectors"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
