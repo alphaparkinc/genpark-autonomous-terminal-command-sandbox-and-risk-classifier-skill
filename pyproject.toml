@@ -5,3 +5,8 @@ description = "Classifies shell and SSH commands by destructive blast radius and
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = []
+
+[project.urls]
+Homepage = "https://www.genpark.ai"
+LinkedIn = "https://www.linkedin.com/company/92955550"
+LinkedInPage = "https://www.llinkedin.com/company/92955550"
